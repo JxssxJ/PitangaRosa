@@ -158,7 +158,9 @@ color: #444;
 /* Final de Sobre a empresa */
 
 /* Serviços */
-
+#services-area p{
+    color: #444;
+}
 .service-box{
     text-align: center;
     margin-bottom: 50px;
