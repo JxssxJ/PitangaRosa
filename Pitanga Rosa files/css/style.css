@@ -115,6 +115,7 @@ header, .navbar {
 }
 #about-area p{
 color: #444;
+text-align: justify;
 }
 .main-title{
   color: #444;
@@ -160,6 +161,7 @@ color: #444;
 /* Serviços */
 #services-area p{
     color: #444;
+    text-align: justify;
 }
 .service-box{
     text-align: center;
@@ -208,6 +210,11 @@ about-titlerogressbar-text{
 /* Time da empresa */
 
 .card-body{
+    text-align: center;
+}
+
+.card-text{
+    color: #444;
     text-align: center;
 }
 
@@ -337,7 +344,7 @@ about-titlerogressbar-text{
 /* Call to action */
 
 #call-area{
-    background-color: #65DAF9;
+    background-color: #3ed54d;
     text-transform: uppercase;
 }
 
@@ -351,7 +358,7 @@ about-titlerogressbar-text{
 }
 
 #call-area p{
-    color: #fff;
+    color: #f9f9f9;
     font-weight: bold;
     font-size: 20px;
     width: auto;
@@ -364,7 +371,7 @@ about-titlerogressbar-text{
 
 #call-area #call-btn{
     background-color: #fff;
-    color: #65DAF9;
+    color: #3ed54d;
     font-weight: bold;
     font-size: 20px;
     margin-left: 30px;
@@ -378,10 +385,14 @@ about-titlerogressbar-text{
     text-align: center;
 }
 
+#contact-area p{
+    color: #444;
+}
+
 .contact-box{
     padding-bottom: 50px;
     margin-bottom: 50px;
-    border-bottom: 1px solid #3ec1d5;
+    border-bottom: 1px solid #3ed54d;
 }
 
 .contact-box i{
@@ -401,7 +412,7 @@ about-titlerogressbar-text{
 
 .contact-title{
     font-weight: bold;
-    color: #3ec1d5;
+    color: #3ed54d;
 }
 
 #msg-box p {
@@ -419,13 +430,13 @@ about-titlerogressbar-text{
 }
 
 #contact-form .main-btn:hover{
-    color: #3ec1d5;
+    color: #3ed54d;
 }
 
 /* Copy */
 
 #copy-area {
-    background-color: #f1f1f1;
+    background-color: rgb(238, 123, 41);
 }
 
 #copy-area .container{
@@ -498,12 +509,12 @@ about-titlerogressbar-text{
     }
 
     /* Time  */
+
+
     .card-title{
         font-size: 14px;
     }
 
-    .card-text{
-        font-size: 12px;
     }
 
     /* Apply  */
@@ -534,7 +545,12 @@ about-titlerogressbar-text{
         font-size: 16px;
     }
 
-}
+    .call-title{
+        color: #f9f9f9;
+        margin: 0 0 65px 0;
+        font-size: 40px;
+        text-align: center;
+    }
 
 @media(max-width: 425px){
 
@@ -580,6 +596,7 @@ about-titlerogressbar-text{
     #team-area .col-md-3{
         width: 50%;
         margin-bottom: 30px;
+        color: #444;
     }
 
     /* Apply  */
