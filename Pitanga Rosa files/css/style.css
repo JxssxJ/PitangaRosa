@@ -83,7 +83,7 @@ header, .navbar {
 }
 
 .main-btn{
-    background-color: #3ed54d;
+    background-color: #24862c;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -99,11 +99,11 @@ header, .navbar {
     text-decoration: none;
     color: #0f0f0f;
     background-color: transparent;
-    border-color: #3ed54d;
+    border-color: #24862c;
 }
 
 .carousel-indicators .active{
-    background-color: #3ed54d;
+    background-color: #24862c;
 }
 
 /* Final do Slider */
@@ -344,7 +344,7 @@ about-titlerogressbar-text{
 /* Call to action */
 
 #call-area{
-    background-color: #3ed54d;
+    background-color: #24862c;
     text-transform: uppercase;
 }
 
@@ -371,7 +371,7 @@ about-titlerogressbar-text{
 
 #call-area #call-btn{
     background-color: #fff;
-    color: #3ed54d;
+    color: #24862c;
     font-weight: bold;
     font-size: 20px;
     margin-left: 30px;
@@ -392,7 +392,7 @@ about-titlerogressbar-text{
 .contact-box{
     padding-bottom: 50px;
     margin-bottom: 50px;
-    border-bottom: 1px solid #3ed54d;
+    border-bottom: 1px solid #24862c;
 }
 
 .contact-box i{
@@ -412,7 +412,7 @@ about-titlerogressbar-text{
 
 .contact-title{
     font-weight: bold;
-    color: #3ed54d;
+    color: #24862c;
 }
 
 #msg-box p {
@@ -430,7 +430,7 @@ about-titlerogressbar-text{
 }
 
 #contact-form .main-btn:hover{
-    color: #3ed54d;
+    color: #24862c;
 }
 
 /* Copy */
