@@ -146,6 +146,9 @@ if (isset($_POST["Reproduzir"])) {
                         </div>
                         <div class="col-md-6">
                             <h3 class="about-title">Uma Associação Voluntária</h3>
+                            <audio controls>
+                                    <source src="./audio_elevenlabs/uma_associacao_voluntaria.mp3" type="audio/mpeg">
+                                    </audio>
                             <p>A Associação Pitanga Rosa é um coletivo formado por mulheres de diversas comunidades,
                                 sendo que sua sede está localizada na comunidade de Faxinal dos Rosas, zona rural do
                                 município de Chapecó, estado de Santa Catarina. A entidade desenvolve suas ações com
@@ -206,9 +209,10 @@ if (isset($_POST["Reproduzir"])) {
                         <div class="col-12">
                             <h3 class="main-title">A importância das plantas medicinais</h3>
                         </div>
-
                         <div class="col-md-6">
-
+                        <audio controls>
+                                <source src="./audio_elevenlabs/importancia_plantas.mp3" type="audio/mpeg">
+                        </audio>
                             <p>A história nos mostra que há muitos anos, homens e mulheres desenvolveram habilidades
                                 com as plantas medicinais, aprendendo a identificar, conhecer, manusear e a valer-se de
                                 suas propriedades sobre o organismo humano. Por muito tempo, as plantas foram a fonte
@@ -246,6 +250,9 @@ if (isset($_POST["Reproduzir"])) {
                             <h3 class="main-title">Mas afinal, o que são plantas medicinais?</h3>
                         </div>
                         <div class="col-6">
+                        <audio controls>
+                                    <source src="./audio_elevenlabs/mas_afinal.mp3" type="audio/mpeg">
+                                    </audio>
                             <p>As plantas medicinais, são aquelas que apresentam princípio ativo e ou ação farmacológica
                                 que ajudam na cura e tratamento de várias doenças. Ou seja, a planta, no todo ou em
                                 parte
@@ -295,6 +302,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img class="img-fluid" src="img/principio_ativo.jpg">
                             </div>
                             <div class="col-6">
+                            <audio controls>
+                                    <source src="./audio_elevenlabs/principio_ativo.mp3" type="audio/mpeg">
+                                    </audio>
                                 <p>O princípio ativo é o grupo de substâncias produzido pela planta a partir da sua
                                     interação
                                     com o ambiente. Podem ser definidos também, como componentes químicos produzidos
@@ -317,6 +327,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <h3 class="main-title">Plantas tóxicas</h3>
                             </div>
                             <div class="col-12">
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/plantas_toxicas.mp3" type="audio/mpeg">
+                                    </audio>
                                 <p>Apesar de muitas plantas serem úteis ao homem, existem aquelas que produzem
                                     substâncias tóxicas ou venenosas. É preciso conhecer bem as características de cada
                                     planta para poder utilizá-las como remédio. Sua utilização inadequada poderá trazer
@@ -337,6 +350,9 @@ if (isset($_POST["Reproduzir"])) {
                             <h3 class="main-title">O poder de cura pelas plantas</h3>
                         </div>
                         <div class="col-12">
+                            <audio controls>
+                                    <source src="./audio_elevenlabs/O_Poder.mp3" type="audio/mpeg">
+                            </audio>
                             <p>Agora, vamos conhecer algumas indicações de plantas, seus benefícios e o poder medicinal
                                 para cura e cuidado com a saúde. Mas antes de tratar sobre isso, vamos falar sobre dois
                                 termos muito importantes que estão relacionados à nossa saúde e aos benefícios que
@@ -408,7 +424,6 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/acafrao.png" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">AÇAFRÃO</h5>
-                                    </form>
                                     <audio controls>
                                     <source src="./audio_elevenlabs/acafrao.mp3" type="audio/mpeg">
                                     </audio>
@@ -432,6 +447,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/Camomila.png" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">CAMOMILA</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/camomila.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> É uma planta estimulante da
                                         vesícula biliar. Combate insônia, histeria, cólicas estomacais, intestinais,
                                         biliares e constipação intestinal. Fortalece e acalma o sistema nervoso. É
@@ -475,6 +493,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/carqueja.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">CARQUEJA</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/carqueja.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> É uma planta indicada para anemia,
                                         gastrite, febre, artrite e
                                         reumatismo, diabetes, inflamação dos rins, hepatite e cálculos biliares. Combate
@@ -497,6 +518,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/funcho.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">FUNCHO</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/funcho.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> É uma planta diurética e benéfica
                                         às vias urinárias. Combate cólicas e
                                         espasmos, má digestão, vômitos e diarreias. Estimula o apetite, elimina gases,
@@ -517,6 +541,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/hortela.png" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">HORTELÃ MENTA</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/hortela.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> É uma planta digestiva, tônica,
                                         estimulante, antiespasmódica,
                                         carminativa, expectorante e biliar. Combate distúrbios digestivos, cólicas,
@@ -543,6 +570,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/majerona.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">MANJERONA</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/manjerona.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> A planta possui ação
                                         antiespasmódica, expectorante.
                                         cicatrizante, digestiva, antimicrobiana, anti-inflamatória e antioxidante.
@@ -565,6 +595,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/manjericao.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">MANJERICÃO</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/manjericao.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> Possui propriedades
                                         antibacterianas, antioxidantes, antiespasmódicas
                                         e digestivas. Reforça o sistema imunológico, reduz o estresse, ameniza sintomas
@@ -587,6 +620,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/salvia.jpg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">SÁLVIA</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/salvia.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text"><b>Função fitoterápica:</b> É uma planta digestiva,
                                         estimulante, anti-inflamatória, analgésica,
                                         depurativa do sangue e tônica geral. Fortalece os nervos e o organismo todo.
@@ -628,6 +664,9 @@ if (isset($_POST["Reproduzir"])) {
                                 <img src="img/homeopatia.jpeg" class="card-img-top" alt="Imagem de Perfil 1">
                                 <div class="card-body">
                                     <h5 class="card-title">Homeopatias</h5>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/Homeopatias.mp3" type="audio/mpeg">
+                                    </audio>
                                     <p class="card-text">Tem seu princípio baseado na cura pelo semelhante. Os
                                         medicamentos
                                         homeopáticos têm substâncias que causam os mesmos sintomas produzidos pela
@@ -659,11 +698,18 @@ if (isset($_POST["Reproduzir"])) {
                         <div id="call-area">
                             <div class="container">
                                 <div class="row">
+                                <div class="col-md-12">
                                     <h3 class="call-title">Nossa Visão:</h3>
+                                    <div>
+                                    <audio controls>
+                                    <source src="./audio_elevenlabs/travesseiros1.mp3" type="audio/mpeg">
+                                    </audio>
+                                    </div>
                                     <p> Ser uma referência na construção e socialização de práticas relacionadas às
                                         plantas
                                         medicinais, alimentação saudável e preservação da biodiversidade, no Oeste
                                         Catarinense.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
