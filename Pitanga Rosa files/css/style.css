@@ -1,6 +1,7 @@
 /* Estilo Geral */
-body{
+body p{
     font-family: 'Roboto', sans-serif;
+    font-size: 105%;
 }
 
 .row{
@@ -98,7 +99,7 @@ header, .navbar {
 .main-btn:hover{
     text-decoration: none;
     color: #0f0f0f;
-    background-color: transparent;
+    background-color: t #24862c;;
     border-color: #24862c;
 }
 
@@ -203,7 +204,7 @@ about-titlerogressbar-text{
 #data-area p{
     color: #fff;
     text-align: center;
-    font-size: 26px;
+    font-size: 100%;
     margin-top: 20px;
 }
 
@@ -216,6 +217,7 @@ about-titlerogressbar-text{
 .card-text{
     color: #444;
     text-align: center;
+    font-size: 100%;
 }
 
 /* Trabalhe conosco */
@@ -241,6 +243,7 @@ about-titlerogressbar-text{
 
 #pattern-img h4, #pattern-img p{
     color: #fff;
+    font-size: 100%;
 }
 
 #pattern-img h4{
@@ -307,7 +310,7 @@ about-titlerogressbar-text{
 }
 
 #news-area p{
-    font-size: 18px;
+    font-size: 100%;
     margin-bottom: 40px;
 }
 
@@ -344,8 +347,7 @@ about-titlerogressbar-text{
 /* Call to action */
 
 #call-area{
-    background-color: #24862c;
-    text-transform: uppercase;
+    background-color: #19491d;
 }
 
 #call-area .container{
@@ -360,9 +362,9 @@ about-titlerogressbar-text{
 #call-area p{
     color: #f9f9f9;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 120%;
     width: auto;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     margin-bottom: 0;
     display: inline;
     height: 60px;
@@ -436,7 +438,7 @@ about-titlerogressbar-text{
 /* Copy */
 
 #copy-area {
-    background-color: rgb(238, 123, 41);
+    background-color: #24862c;
 }
 
 #copy-area .container{
@@ -446,6 +448,7 @@ about-titlerogressbar-text{
 
 #copy-area .container p{
     margin-bottom: 0;
+    background-color: #24862c;
 }
 
 #copy-area .container a{
@@ -485,7 +488,7 @@ about-titlerogressbar-text{
     }
 
     #mainSlider .carousel-caption p{
-        font-size: 18px;
+        font-size: 100%;
         margin-bottom: 40px;
     }
 
@@ -541,7 +544,7 @@ about-titlerogressbar-text{
         padding: 30px;
     }
 
-    #call-area p, #call-area #call-btn{
+    #call-area #call-btn{
         font-size: 16px;
     }
 
